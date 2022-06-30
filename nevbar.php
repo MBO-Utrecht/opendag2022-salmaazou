@@ -30,10 +30,10 @@ if (isset($_GET["content"])){
           <a class="nav-link <?php if ($active == "contact") {echo "active";} ?>" href="./index.php?content=contact">𝑪𝑶𝑵𝑻𝑨𝑪𝑻</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link <?php if ($active == "lezen") {echo "active";} ?>" href="./index.php?content=lezen">lezen</a>
+          <a class="nav-link <?php if ($active == "lezen") {echo "active";} ?>" href="./index.php?content=lezen">Enquete</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link <?php if ($active == "read") {echo "active";} ?>" href="./index.php?content=read">read</a>
+          <a class="nav-link <?php if ($active == "read") {echo "active";} ?>" href="./index.php?content=read">Enquete lezen</a>
         </li>
        
         </ul>

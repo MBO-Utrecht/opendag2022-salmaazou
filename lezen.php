@@ -32,6 +32,14 @@
 	</div>
 	<div class="row">
 	</div>
+	<div class="row input-container">
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<input type="text" name="naam" id="naam" required />
+					<label>Voornaam en Achternaam</label> 
+				</div>
+			</div>
+			
 	<div class="col-xs-12">
 				<div class="styled-input wide">
 					<textarea name="eerste" id="eerste" required></textarea>
@@ -62,6 +70,7 @@
 					<label>5)	Heb je voor ons nog tips of zijn er vragen waar je geen antwoord op hebt gekregen?</label>
 				</div>
 			</div>
+			
      
 			<div class="col-xs-12">
             <Input type="submit" name="submit" value="send"></Input>
@@ -77,20 +86,6 @@
  
 
 
- <section id="footer">
-    <div class="footer container">
-      <div class="brand">
-        <a><h1>MBO Utrecht</h1></a>
-      </div>
-      <div class="social-icon">
-        <a href=""><i class="fa fa-facebook"></i></a>
-        <a href=""><i class="fa fa-youtube"></i></a>
-        <a href=""><i class="fa fa-instagram"></i></a>
-        <a href=""><i class="fa fa-twitter "></i></a>
-      </div>
-      <p>© 2022 MBO Utrecht B.V. Alle rechten voorbehouden (colofon)</p>
-    </div>
-  </section>
 
 </main>
 
